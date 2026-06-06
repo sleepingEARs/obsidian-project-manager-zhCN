@@ -1,0 +1,10 @@
+{
+  "id": "project-manager-zhCN",
+  "name": "Project Manager (zhCN)",
+  "version": "1.5.0-zhCN",
+  "minAppVersion": "1.7.2",
+  "description": "Project Manager 插件的简体中文汉化版本。Full-featured project management with Chinese UI support.",
+  "author": "Stepan Kropachev (汉化: sleepingEARs)",
+  "authorUrl": "https://github.com/StepanKropachev",
+  "isDesktopOnly": false
+}
